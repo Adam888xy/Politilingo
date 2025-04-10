@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "deckId": 201,
+    "index": 0,
+    "question": "What does ROI stand for in finance?",
+    "answer": "Return on Investment"
+  },
+  {
+    "id": 2,
+    "deckId": 201,
+    "index": 1,
+    "question": "What is the primary function of the Federal Reserve?",
+    "answer": "To manage monetary policy and regulate banks"
+  },
+  {
+    "id": 3,
+    "deckId": 201,
+    "index": 2,
+    "question": "What is a bond?",
+    "answer": "A fixed income instrument that represents a loan made by an investor to a borrower"
+  },
+  {
+    "id": 4,
+    "deckId": 201,
+    "index": 3,
+    "question": "What does IPO stand for?",
+    "answer": "Initial Public Offering"
+  },
+  {
+    "id": 5,
+    "deckId": 201,
+    "index": 4,
+    "question": "What is the stock market?",
+    "answer": "A market where shares of publicly held companies are issued and traded"
+  },
+  {
+    "id": 6,
+    "deckId": 201,
+    "index": 5,
+    "question": "What is inflation?",
+    "answer": "The rate at which the general level of prices for goods and services is rising"
+  },
+  {
+    "id": 7,
+    "deckId": 201,
+    "index": 6,
+    "question": "What is a stock dividend?",
+    "answer": "A dividend payment made in the form of additional shares"
+  },
+  {
+    "id": 8,
+    "deckId": 201,
+    "index": 7,
+    "question": "What is diversification in investing?",
+    "answer": "Spreading investments to reduce risk"
+  },
+  {
+    "id": 9,
+    "deckId": 201,
+    "index": 8,
+    "question": "What is a mutual fund?",
+    "answer": "An investment vehicle made up of a pool of money from many investors to purchase securities"
+  },
+  {
+    "id": 10,
+    "deckId": 201,
+    "index": 9,
+    "question": "What does ETF stand for?",
+    "answer": "Exchange-Traded Fund"
+  },
+  {
+    "id": 11,
+    "deckId": 201,
+    "index": 10,
+    "question": "What is capital gain?",
+    "answer": "The increase in value of an asset or investment over time"
+  },
+  {
+    "id": 12,
+    "deckId": 201,
+    "index": 11,
+    "question": "What is a bear market?",
+    "answer": "A market in which prices are falling"
+  },
+  {
+    "id": 13,
+    "deckId": 201,
+    "index": 12,
+    "question": "What is a bull market?",
+    "answer": "A market in which prices are rising"
+  },
+  {
+    "id": 14,
+    "deckId": 201,
+    "index": 13,
+    "question": "What does GDP stand for?",
+    "answer": "Gross Domestic Product"
+  },
+  {
+    "id": 15,
+    "deckId": 201,
+    "index": 14,
+    "question": "What is liquidity?",
+    "answer": "How easily an asset can be converted into cash"
+  },
+  {
+    "id": 16,
+    "deckId": 201,
+    "index": 15,
+    "question": "What is a credit score?",
+    "answer": "A numerical expression based on a person's credit files"
+  },
+  {
+    "id": 17,
+    "deckId": 201,
+    "index": 16,
+    "question": "What is a budget?",
+    "answer": "A financial plan for a defined period"
+  },
+  {
+    "id": 18,
+    "deckId": 201,
+    "index": 17,
+    "question": "What is net worth?",
+    "answer": "The value of all assets minus liabilities"
+  },
+  {
+    "id": 19,
+    "deckId": 201,
+    "index": 18,
+    "question": "What is compound interest?",
+    "answer": "Interest calculated on the initial principal and also on the accumulated interest"
+  },
+  {
+    "id": 20,
+    "deckId": 201,
+    "index": 19,
+    "question": "What is simple interest?",
+    "answer": "Interest calculated only on the initial principal"
+  },
+  {
+    "id": 21,
+    "deckId": 201,
+    "index": 20,
+    "question": "What is an annuity?",
+    "answer": "A series of payments made at equal intervals"
+  },
+  {
+    "id": 22,
+    "deckId": 201,
+    "index": 21,
+    "question": "What is amortization?",
+    "answer": "The process of spreading out a loan into a series of fixed payments"
+  },
+  {
+    "id": 23,
+    "deckId": 201,
+    "index": 22,
+    "question": "What is a hedge fund?",
+    "answer": "An investment fund that employs diverse strategies to earn active return for investors"
+  },
+  {
+    "id": 24,
+    "deckId": 201,
+    "index": 23,
+    "question": "What does P/E ratio stand for?",
+    "answer": "Price-to-Earnings Ratio"
+  },
+  {
+    "id": 25,
+    "deckId": 201,
+    "index": 24,
+    "question": "What is a balance sheet?",
+    "answer": "A financial statement that reports a company's assets, liabilities, and equity"
+  },
+  {
+    "id": 26,
+    "deckId": 201,
+    "index": 25,
+    "question": "What is an income statement?",
+    "answer": "A financial statement that shows a company\u2019s revenues and expenses"
+  },
+  {
+    "id": 27,
+    "deckId": 201,
+    "index": 26,
+    "question": "What is cash flow?",
+    "answer": "The net amount of cash being transferred in and out of a business"
+  },
+  {
+    "id": 28,
+    "deckId": 201,
+    "index": 27,
+    "question": "What is a credit default swap?",
+    "answer": "A financial derivative that allows an investor to swap credit risk"
+  },
+  {
+    "id": 29,
+    "deckId": 201,
+    "index": 28,
+    "question": "What is a financial derivative?",
+    "answer": "A contract whose value is based on the performance of an underlying asset"
+  },
+  {
+    "id": 30,
+    "deckId": 201,
+    "index": 29,
+    "question": "What is risk tolerance?",
+    "answer": "The degree of variability in investment returns an investor is willing to withstand"
+  },
+  {
+    "id": 31,
+    "deckId": 201,
+    "index": 30,
+    "question": "What is portfolio?",
+    "answer": "A collection of financial investments like stocks, bonds, commodities, etc."
+  },
+  {
+    "id": 32,
+    "deckId": 201,
+    "index": 31,
+    "question": "What is an asset?",
+    "answer": "Any resource with economic value"
+  },
+  {
+    "id": 33,
+    "deckId": 201,
+    "index": 32,
+    "question": "What is a liability?",
+    "answer": "An obligation that a company or individual owes"
+  },
+  {
+    "id": 34,
+    "deckId": 201,
+    "index": 33,
+    "question": "What is equity?",
+    "answer": "Ownership value in an asset or business"
+  },
+  {
+    "id": 35,
+    "deckId": 201,
+    "index": 34,
+    "question": "What is market capitalization?",
+    "answer": "The total market value of a company's outstanding shares"
+  },
+  {
+    "id": 36,
+    "deckId": 201,
+    "index": 35,
+    "question": "What is dividend yield?",
+    "answer": "A financial ratio that shows how much a company pays in dividends each year"
+  },
+  {
+    "id": 37,
+    "deckId": 201,
+    "index": 36,
+    "question": "What is bankruptcy?",
+    "answer": "A legal process for individuals or businesses that are unable to repay their debts"
+  },
+  {
+    "id": 38,
+    "deckId": 201,
+    "index": 37,
+    "question": "What is leverage?",
+    "answer": "The use of borrowed capital to increase the potential return of an investment"
+  },
+  {
+    "id": 39,
+    "deckId": 201,
+    "index": 38,
+    "question": "What is a margin account?",
+    "answer": "An account that allows investors to borrow money to purchase securities"
+  },
+  {
+    "id": 40,
+    "deckId": 201,
+    "index": 39,
+    "question": "What is a 401(k)?",
+    "answer": "A retirement savings plan sponsored by an employer"
+  },
+  {
+    "id": 41,
+    "deckId": 201,
+    "index": 40,
+    "question": "What is an IRA?",
+    "answer": "Individual Retirement Account"
+  },
+  {
+    "id": 42,
+    "deckId": 201,
+    "index": 41,
+    "question": "What is the time value of money?",
+    "answer": "The idea that money available now is worth more than the same amount in the future"
+  },
+  {
+    "id": 43,
+    "deckId": 201,
+    "index": 42,
+    "question": "What is a financial intermediary?",
+    "answer": "An institution that connects savers and borrowers"
+  },
+  {
+    "id": 44,
+    "deckId": 201,
+    "index": 43,
+    "question": "What is a central bank?",
+    "answer": "An institution that manages a state's currency, money supply, and interest rates"
+  },
+  {
+    "id": 45,
+    "deckId": 201,
+    "index": 44,
+    "question": "What is fiscal policy?",
+    "answer": "Government policy relating to taxation and spending"
+  },
+  {
+    "id": 46,
+    "deckId": 201,
+    "index": 45,
+    "question": "What is monetary policy?",
+    "answer": "Policy set by the central bank to control money supply and interest rates"
+  },
+  {
+    "id": 47,
+    "deckId": 201,
+    "index": 46,
+    "question": "What is a yield curve?",
+    "answer": "A graph showing the relationship between bond yields and maturity"
+  },
+  {
+    "id": 48,
+    "deckId": 201,
+    "index": 47,
+    "question": "What is a stock split?",
+    "answer": "An increase in the number of shares outstanding by issuing more shares to current shareholders"
+  },
+  {
+    "id": 49,
+    "deckId": 201,
+    "index": 48,
+    "question": "What is insider trading?",
+    "answer": "Trading based on non-public, material information about a company"
+  },
+  {
+    "id": 50,
+    "deckId": 201,
+    "index": 49,
+    "question": "What is the SEC?",
+    "answer": "Securities and Exchange Commission"
+  },
+  {
+    "id": 51,
+    "deckId": 201,
+    "index": 50,
+    "question": "What is the FDIC?",
+    "answer": "Federal Deposit Insurance Corporation"
+  },
+  {
+    "id": 52,
+    "deckId": 201,
+    "index": 51,
+    "question": "What is a blue-chip stock?",
+    "answer": "Stock of a large, well-established and financially sound company"
+  },
+  {
+    "id": 53,
+    "deckId": 201,
+    "index": 52,
+    "question": "What is beta in finance?",
+    "answer": "A measure of a stock's volatility in relation to the market"
+  },
+  {
+    "id": 54,
+    "deckId": 201,
+    "index": 53,
+    "question": "What is alpha in finance?",
+    "answer": "A measure of an investment's performance relative to a benchmark index"
+  },
+  {
+    "id": 55,
+    "deckId": 201,
+    "index": 54,
+    "question": "What is financial term 55?",
+    "answer": "Definition of financial term 55"
+  },
+  {
+    "id": 56,
+    "deckId": 201,
+    "index": 55,
+    "question": "What is financial term 57?",
+    "answer": "Definition of financial term 57"
+  },
+  {
+    "id": 57,
+    "deckId": 201,
+    "index": 56,
+    "question": "What is financial term 59?",
+    "answer": "Definition of financial term 59"
+  },
+  {
+    "id": 58,
+    "deckId": 201,
+    "index": 57,
+    "question": "What is financial term 61?",
+    "answer": "Definition of financial term 61"
+  },
+  {
+    "id": 59,
+    "deckId": 201,
+    "index": 58,
+    "question": "What is financial term 63?",
+    "answer": "Definition of financial term 63"
+  },
+  {
+    "id": 60,
+    "deckId": 201,
+    "index": 59,
+    "question": "What is financial term 65?",
+    "answer": "Definition of financial term 65"
+  },
+  {
+    "id": 61,
+    "deckId": 201,
+    "index": 60,
+    "question": "What is financial term 67?",
+    "answer": "Definition of financial term 67"
+  },
+  {
+    "id": 62,
+    "deckId": 201,
+    "index": 61,
+    "question": "What is financial term 69?",
+    "answer": "Definition of financial term 69"
+  },
+  {
+    "id": 63,
+    "deckId": 201,
+    "index": 62,
+    "question": "What is financial term 71?",
+    "answer": "Definition of financial term 71"
+  },
+  {
+    "id": 64,
+    "deckId": 201,
+    "index": 63,
+    "question": "What is financial term 73?",
+    "answer": "Definition of financial term 73"
+  },
+  {
+    "id": 65,
+    "deckId": 201,
+    "index": 64,
+    "question": "What is financial term 75?",
+    "answer": "Definition of financial term 75"
+  },
+  {
+    "id": 66,
+    "deckId": 201,
+    "index": 65,
+    "question": "What is financial term 77?",
+    "answer": "Definition of financial term 77"
+  },
+  {
+    "id": 67,
+    "deckId": 201,
+    "index": 66,
+    "question": "What is financial term 79?",
+    "answer": "Definition of financial term 79"
+  },
+  {
+    "id": 68,
+    "deckId": 201,
+    "index": 67,
+    "question": "What is financial term 81?",
+    "answer": "Definition of financial term 81"
+  },
+  {
+    "id": 69,
+    "deckId": 201,
+    "index": 68,
+    "question": "What is financial term 83?",
+    "answer": "Definition of financial term 83"
+  },
+  {
+    "id": 70,
+    "deckId": 201,
+    "index": 69,
+    "question": "What is financial term 85?",
+    "answer": "Definition of financial term 85"
+  },
+  {
+    "id": 71,
+    "deckId": 201,
+    "index": 70,
+    "question": "What is financial term 87?",
+    "answer": "Definition of financial term 87"
+  },
+  {
+    "id": 72,
+    "deckId": 201,
+    "index": 71,
+    "question": "What is financial term 89?",
+    "answer": "Definition of financial term 89"
+  },
+  {
+    "id": 73,
+    "deckId": 201,
+    "index": 72,
+    "question": "What is financial term 91?",
+    "answer": "Definition of financial term 91"
+  },
+  {
+    "id": 74,
+    "deckId": 201,
+    "index": 73,
+    "question": "What is financial term 93?",
+    "answer": "Definition of financial term 93"
+  },
+  {
+    "id": 75,
+    "deckId": 201,
+    "index": 74,
+    "question": "What is financial term 95?",
+    "answer": "Definition of financial term 95"
+  },
+  {
+    "id": 76,
+    "deckId": 201,
+    "index": 75,
+    "question": "What is financial term 97?",
+    "answer": "Definition of financial term 97"
+  },
+  {
+    "id": 77,
+    "deckId": 201,
+    "index": 76,
+    "question": "What is financial term 99?",
+    "answer": "Definition of financial term 99"
+  },
+  {
+    "id": 78,
+    "deckId": 201,
+    "index": 77,
+    "question": "What is financial term 101?",
+    "answer": "Definition of financial term 101"
+  },
+  {
+    "id": 79,
+    "deckId": 201,
+    "index": 78,
+    "question": "What is financial term 103?",
+    "answer": "Definition of financial term 103"
+  },
+  {
+    "id": 80,
+    "deckId": 201,
+    "index": 79,
+    "question": "What is financial term 105?",
+    "answer": "Definition of financial term 105"
+  },
+  {
+    "id": 81,
+    "deckId": 201,
+    "index": 80,
+    "question": "What is financial term 107?",
+    "answer": "Definition of financial term 107"
+  },
+  {
+    "id": 82,
+    "deckId": 201,
+    "index": 81,
+    "question": "What is financial term 109?",
+    "answer": "Definition of financial term 109"
+  },
+  {
+    "id": 83,
+    "deckId": 201,
+    "index": 82,
+    "question": "What is financial term 111?",
+    "answer": "Definition of financial term 111"
+  },
+  {
+    "id": 84,
+    "deckId": 201,
+    "index": 83,
+    "question": "What is financial term 113?",
+    "answer": "Definition of financial term 113"
+  },
+  {
+    "id": 85,
+    "deckId": 201,
+    "index": 84,
+    "question": "What is financial term 115?",
+    "answer": "Definition of financial term 115"
+  },
+  {
+    "id": 86,
+    "deckId": 201,
+    "index": 85,
+    "question": "What is financial term 117?",
+    "answer": "Definition of financial term 117"
+  },
+  {
+    "id": 87,
+    "deckId": 201,
+    "index": 86,
+    "question": "What is financial term 119?",
+    "answer": "Definition of financial term 119"
+  },
+  {
+    "id": 88,
+    "deckId": 201,
+    "index": 87,
+    "question": "What is financial term 121?",
+    "answer": "Definition of financial term 121"
+  },
+  {
+    "id": 89,
+    "deckId": 201,
+    "index": 88,
+    "question": "What is financial term 123?",
+    "answer": "Definition of financial term 123"
+  },
+  {
+    "id": 90,
+    "deckId": 201,
+    "index": 89,
+    "question": "What is financial term 125?",
+    "answer": "Definition of financial term 125"
+  },
+  {
+    "id": 91,
+    "deckId": 201,
+    "index": 90,
+    "question": "What is financial term 127?",
+    "answer": "Definition of financial term 127"
+  },
+  {
+    "id": 92,
+    "deckId": 201,
+    "index": 91,
+    "question": "What is financial term 129?",
+    "answer": "Definition of financial term 129"
+  },
+  {
+    "id": 93,
+    "deckId": 201,
+    "index": 92,
+    "question": "What is financial term 131?",
+    "answer": "Definition of financial term 131"
+  },
+  {
+    "id": 94,
+    "deckId": 201,
+    "index": 93,
+    "question": "What is financial term 133?",
+    "answer": "Definition of financial term 133"
+  },
+  {
+    "id": 95,
+    "deckId": 201,
+    "index": 94,
+    "question": "What is financial term 135?",
+    "answer": "Definition of financial term 135"
+  },
+  {
+    "id": 96,
+    "deckId": 201,
+    "index": 95,
+    "question": "What is financial term 137?",
+    "answer": "Definition of financial term 137"
+  },
+  {
+    "id": 97,
+    "deckId": 201,
+    "index": 96,
+    "question": "What is financial term 139?",
+    "answer": "Definition of financial term 139"
+  },
+  {
+    "id": 98,
+    "deckId": 201,
+    "index": 97,
+    "question": "What is financial term 141?",
+    "answer": "Definition of financial term 141"
+  },
+  {
+    "id": 99,
+    "deckId": 201,
+    "index": 98,
+    "question": "What is financial term 143?",
+    "answer": "Definition of financial term 143"
+  },
+  {
+    "id": 100,
+    "deckId": 201,
+    "index": 99,
+    "question": "What is financial term 145?",
+    "answer": "Definition of financial term 145"
+  }
+]
