@@ -1,3 +1,6 @@
+<!-- description: This is a detailed description of your flashcard deck. You can include multiple paragraphs and even some basic formatting like **bold** or *italic* text. -->
+
+
 # Chemistry Flashcards
 
 ## What is the chemical symbol for water?
