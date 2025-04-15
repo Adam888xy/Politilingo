@@ -8,8 +8,7 @@ The **periodic table** is a tabular arrangement of chemical elements, organized 
 
 Elements are presented in **order of increasing atomic number**. The rows are called *periods* and the columns are called *groups*.
 
-![image](https://github.com/user-attachments/assets/5294d3bd-6254-4bc0-a1c0-ec7585b5eb4d)
-
+![image](https://github.com/user-attachments/assets/4f0610d3-a6c3-4ee1-b95d-d86814074009)
 
 ---
 
