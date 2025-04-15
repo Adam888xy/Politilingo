@@ -1,4 +1,4 @@
-# What is the periodic table?
+# What is the periodiccc table?
 
 The **periodic table** is a tabular arrangement of chemical elements, organized by:
 
